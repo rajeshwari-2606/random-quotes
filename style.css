@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.container
+{
+    width: 850px;
+    height: 300px;
+    margin-left: 450px;
+    margin-top: 300px;
+    background-color:rgb(103, 109, 113);
+    text-align: center;
+    border-radius: 70px;
+    
+    
+    
+}
+#generate
+{
+    border-radius:20px;
+    margin-top: 40px;
+    font-size: large;
+    background-color:rgb(130, 176, 217);
+    padding: 0.4rem;
+
+}
+#display{
+    padding-top: 50px;
+color: white;
+font-size: 1.2rem;
+    
+}
+body{
+    background-image:url('life.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    padding-top: 20px;
+}
